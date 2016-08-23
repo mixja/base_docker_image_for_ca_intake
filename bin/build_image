@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker build -t casecommons/ca_intake_base_image  -f Dockerfile .

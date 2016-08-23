@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker push casecommons/ca_intake_base_image
